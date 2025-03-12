@@ -29,13 +29,13 @@
         "preview": "vite preview",
         "test": "vitest"
     },
-    "homepage": "https://github.com/marimo-team/codemirror-languageserver",
+    "homepage": "https://github.com/PGEtinker/codemirror-languageserver",
     "bugs": {
-        "url": "https://github.com/marimo-team/codemirror-languageserver/issues"
+        "url": "https://github.com/PGEtinker/codemirror-languageserver/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/marimo-team/codemirror-languageserver.git"
+        "url": "https://github.com/PGEtinker/codemirror-languageserver.git"
     },
     "license": "BSD-3-Clause",
     "peerDependencies": {
